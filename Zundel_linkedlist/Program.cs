@@ -1,5 +1,8 @@
 ﻿using System;
-
+// Thomas Zundel
+// IT113 
+// NOTES: 
+// BEHAVIORS NOT IMPLEMENTED AND WHY: I think i got it all
 namespace Zundel_linkedlist
 {
     class Program
